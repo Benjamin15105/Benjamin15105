@@ -1,6 +1,9 @@
 ## Captain，on your left 👋
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin15105&theme=tokyo-night&hide_border=true&area=true" />
 
+![Benjamin](https://stats.justsong.cn/api/leetcode?username=benjamin-6u&theme=dark)
+![CSDN](https://stats.justsong.cn/api/csdn?id=weixin_57246792&theme=algolia)
+
 
 <!--
 **Benjamin15105/Benjamin15105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
