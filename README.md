@@ -1,5 +1,5 @@
 ## Captain，on your left 👋
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin15105&theme=react-dark&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin15105&theme=tokyo-night&hide_border=true&area=true" />
 
 
 <!--
