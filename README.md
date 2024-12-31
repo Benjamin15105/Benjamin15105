@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={Benjamin15105}&theme=github-compact&hide_border=true&area=true" /><img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={Benjamin15105}&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin15105&theme=github-compact&hide_border=true&area=true" /><img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin15105&theme=github-compact&hide_border=true&area=true" />
 <!--
 **Benjamin15105/Benjamin15105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
